@@ -19,7 +19,7 @@
 <h6>Redzimski</h6><br>
 <p> <lign="right"> <font color="green" size="3" face="Calibri"> :'( płacz </font> </p> <br>
 <p> <align="right"> <font color="dark green" size="7" face="Arial Narrow"> ;( płacz </font> </p> <br>
-<p> <align="right"> <font color="white" size="5" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
+<p> <align="right"> <font color="red" size="5" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
 <p> <align="right"> <font color="yellow" size="4" face="Algerian"> ':( zmartwienie  </font> </p> <br>
 <p> <align="right"> <font color="black" size="6" face="Times New Roman"> :( smutek </font> </p> <br>
 <p> <align="right"> <font color="brown" size="8" face="Arial Black"> :C duży smutek </font> </p> <br>
