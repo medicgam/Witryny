@@ -25,7 +25,7 @@
 <p> <align="right"> <font color="brown" size="8" face="Arial Black"> :C duży smutek </font> </p> <br>
 <p>zadanie 2</p>
 <p> <align="left"><u><i>42-445 Grzegorza Brzęczyszczykiewicza 21/37<i></u></p> <br>
-<p> <align="middle"><b><font color=„Blue” size=„8” face=„Aharoni”><STRIKE><sup>Tomasz Karolak</b></strike></font></sup> </p> <br>
+<p> <align="middle"><b><font color=„Blue” size=„8” face=„Aharoni”><strike><sup>Tomasz Karolak</b></strike></font></sup> </p> <br>
 <p> <align="right"><font color="dark green" size="9" face="Calibri">Mongolskie Kaszkiety</font></p> <br>
 <p> <align="left"><b> 28 Maja 2001</b></p> <br>
   <p> <align="right">H<sub>2</sub>SO<sub>4</sub></p>
