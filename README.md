@@ -4,13 +4,13 @@
 #Witryny
  <body bgcolor="pink">
 <p><b>ZADANIE 1</b></p>
- <p> <align="right" ><font color="blue" size="1" face="Arial Narrow"> Adam </font> </p> <br>
-<p> <align="right" ><font color="red" size="2" face="Comic Sans TM"> Adam </font> </p> <br>
-<p> <align="right" ><font color="yellow" size="3" face="Calibri">Adam</font> </p> </br>
-<p> <align="right" ><font color="gray" size="4" face="Times New Roman"> Adam </font> </p> <br>
-<p> <align="right" ><font color="green" size="5" face="Batang">Adam </font> </p> <br>
-<p> <align="right" ><font color="black" size="6" face="Aharoni"> Adam</font> </p> <br>
-<p> <align="right" ><font color="brown" size="7" face="Arial Black"> Adam </font> </p> <br>
+ <p> <align="right"><font color="blue" size="1" face="Arial Narrow"> Adam </font> </p> <br>
+<p> <align="right"><font color="red" size="2" face="Comic Sans TM"> Adam </font> </p> <br>
+<p> <align="right"><font color="yellow" size="3" face="Calibri">Adam</font> </p> </br>
+<p> <align="right"><font color="gray" size="4" face="Times New Roman"> Adam </font> </p> <br>
+<p> <align="right"><font color="green" size="5" face="Batang">Adam </font> </p> <br>
+<p> <align="right"><font color="black" size="6" face="Aharoni"> Adam</font> </p> <br>
+<p> <align="right"><font color="brown" size="7" face="Arial Black"> Adam </font> </p> <br>
 <h1>Redzimski</h1><br>
 <h2>Redzimski</h2><br>
 <h3>Redzimski</h3><br>
